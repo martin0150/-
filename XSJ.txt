@@ -1,7 +1,3 @@
-﻿测试,#genre#
-緯來日本,https://www.histar.tv/live/videoland-japan
-動物星球,https://www.histar.tv/live/animal-planet
-壹新聞,https://www.histar.tv/live/nexttv
 
 港澳,#genre#
 TVB翡翠台,https://us.dispatch.ulivetv.net/v/live/cfxp7kxld96o.m3u8?stream_id=cfxp7kxld96o&timestamp=1699439294&rand=RdATdwtyI0&uuid=ghBhFhr1T33AtAXiFevF5z&from=web&sign=a562267645e6d5f571e2a1609eedbb52
