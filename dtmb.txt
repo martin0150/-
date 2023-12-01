@@ -1,0 +1,24 @@
+﻿翡翠台,http://s1.dtmb-s2.cc/dvb-steam/81/index.m3u8?token=UMayrFCSTOHJzQ6-IGdnaQ&expires=1701479351
+ViuTV,http://s1.dtmb-s2.cc/ott-steam/99/index.m3u8?token=9P5ZKVJ0U5HM7z-IAwBlvQ&expires=1701479351
+ViuTVSix,http://s1.dtmb-s2.cc/dvb-steam/96/index.m3u8?token=mgQvHyY14fcat88kQh5rTw&expires=1701479351
+J2台,http://s1.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=jlUz5xC_0jZBhEG1Majrvg&expires=1701479351
+無綫新聞台,http://s1.dtmb-s2.cc/ott-steam/83/index.m3u8?token=gQ0qr2zGBHDh0AwosJ_0SQ&expires=1701479351
+明珠台,http://s1.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=wU_FovyhXULYYIU2yxF52w&expires=1701479351
+無綫財經·資訊台,http://s1.dtmb-s2.cc/ott-steam/85/index.m3u8?token=XtjrVtYnlJiYFiOjB1-UvQ&expires=1701479351
+港台電視31,http://s1.dtmb-s2.cc/ott-steam/31/index.m3u8?token=ud8xssd9-nt5MZK2qPId9w&expires=1701479351
+港台電視32,http://s1.dtmb-s2.cc/ott-steam/32/index.m3u8?token=urKM8tZBGfCUOFLOq0kUAA&expires=1701479351
+HOY TV,http://s1.dtmb-s2.cc/dvb-steam/77/index.m3u8?token=nMeGPMDAc76Jx2ZUbu1QcQ&expires=1701479351
+HOY TV 資訊台,http://s1.dtmb-s2.cc/dvb-steam/78/index.m3u8?token=_tpWB5Hux3BhFQKv9JXCKg&expires=1701479351
+香港國際財經台,http://s1.dtmb-s2.cc/dvb-steam/76/index.m3u8?token=0GbhpE-8QD6ZXhsmE5RnNQ&expires=1701479351
+Viu,http://s1.dtmb-s2.cc/ott-steam/102/index.m3u8?token=ND7i2omFBhzCN7yPd3sCWw&expires=1701479351
+Jelli,http://s1.dtmb-s2.cc/ott-steam/108/index.m3u8?token=jqE3VEsOMxsFALcXftV2-w&expires=1701479351
+Now Live,http://s1.dtmb-s2.cc/ott-steam/331/index.m3u8?token=RBCkLKYIDWA8bv-Uh0Zc1Q&expires=1701479351
+Now News,http://s1.dtmb-s2.cc/ott-steam/332/index.m3u8?token=KPu8OXarl1my-0URScBLUw&expires=1701479351
+Now BNC,http://s1.dtmb-s2.cc/ott-steam/333/index.m3u8?token=Iqzz-VVcxkWC9itsNhUuzA&expires=1701479351
+Now Sports Prime,http://s1.dtmb-s2.cc/ott-steam/630/index.m3u8?token=f1wgqrvS7MDDatZnXQWcuw&expires=1701479351
+Now Sports 1,http://s1.dtmb-s2.cc/ott-steam/631/index.m3u8?token=QQ2TebUFJahlz2cudSpvcw&expires=1701479351
+Jade,http://s1.dtmb-s2.cc/ott-steam/J/index.m3u8?token=JNY2lVOCokfv-ZhvLse2qg&expires=1701479351
+Kids,http://s1.dtmb-s2.cc/ott-steam/100/index.m3u8?token=VjoFRjasr9llVH_BsgGbOg&expires=1701479351
+Mei Ah
+,http://s1.dtmb-s2.cc/ott-steam/201/index.m3u8?token=MwtPJ-sHbywUFrRbaPVIsQ&expires=1701479351
+Animax,http://s1.dtmb-s2.cc/ott-steam/504/index.m3u8?token=CqiLp4mMR0rF0fKXr_Q_eg&expires=1701479351
