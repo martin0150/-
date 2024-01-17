@@ -10,6 +10,7 @@ TVB千禧经典台,https://us.dispatch.ulivetv.net/v/live/d24fe2sjnr5s.m3u8?stre
 TVB粤语片台,https://us.dispatch.ulivetv.net/v/live/cnv47oyqlmtc.m3u8?stream_id=cnv47oyqlmtc&timestamp=1699439307&rand=suBosi28a0&uuid=2uLQJ8agL9JLThhUwpHWoB&from=web&sign=6318fe74b59250ead5b1482bc9f79215
 TVB亚洲剧台,https://us.dispatch.ulivetv.net/v/live/cnyy2jy9gdds.m3u8?stream_id=cnyy2jy9gdds&timestamp=1699439311&rand=3PGdQbp4YL&uuid=7S2XkhNoVkkfXK1U1gZHtv&from=web&sign=7d4074fba088924e01116a978a881fcb
 TVB华语剧台,https://us.dispatch.ulivetv.net/v/live/ciw8gobsylds.m3u8?stream_id=ciw8gobsylds&timestamp=1699439313&rand=s05eOUvHxP&uuid=fp36LwcY41hqC4HsGLsi3k&from=web&sign=6fc1822e5865959982ab4b0079410a05
+Now爆谷台,https://hls.ulivetv.net/v/live/d9w0ch4ryrk0.m3u8?stream_id=d9w0ch4ryrk0&timestamp=1705471412&rand=NzQHu4ajI5&uuid=k8DG9hoSfjFq8mUSkd6be9&from=web&sign=f52d537c737e3b5f5bde9a01b7326d01&stream_id=d9w0ch4ryrk0
 Viu TV,https://us.dispatch.ulivetv.net/v/live/cfxqqyonr4xs.m3u8?stream_id=cfxqqyonr4xs&timestamp=1699439331&rand=qEC001jAtl&uuid=f6i6qPy7XMSzQfiWVC6GkH&from=web&sign=4bb01dcfddc919f99cc3f1f196f07622
 Viu TV6,https://us.dispatch.ulivetv.net/v/live/cfxr193bpgw0.m3u8?stream_id=cfxr193bpgw0&timestamp=1699439333&rand=rsgjZHSsq1&uuid=9cB5pQB4c1eojq8cGamHc3&from=web&sign=8c532de616b62d1963df6ef8c3809c23
 HOY 77,https://us.dispatch.ulivetv.net/v/live/crfo1u3km6v4.m3u8?stream_id=crfo1u3km6v4&timestamp=1699439335&rand=Iq7FpZrjkv&uuid=7zt3K97dyUbiAvg5rm8PQf&from=web&sign=1250e3c6114bc3082974009eb8a3c844
