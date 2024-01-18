@@ -1,2 +1,0 @@
-港澳,#genre#
-TVB翡翠台,https://euorigin.scdn.pp.ua/live/tvb_jade.m3u8?token=_TS3ZJdyb0n3OZIcN3Y9hg&expires=1705511809
